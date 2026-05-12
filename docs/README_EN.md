@@ -67,9 +67,11 @@ Visit `http://localhost:5173` in your browser to start.
 ## ❓ FAQ
 
 **Q: Why no database?**
+
 A: For easy demonstration on GitHub. Using `localStorage` allows anyone to run the project instantly without setting up MySQL or MongoDB. It is perfect for portfolio showcases.
 
 **Q: How to switch roles?**
+
 A: Use the [User] [Merchant] [Rider] toggle buttons at the top of the header.
 
 ---
